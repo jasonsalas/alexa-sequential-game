@@ -6,8 +6,6 @@ opt_out: thanks for playing! your final score is {{ score }}.
 
 reprompt: I am still waiting. please make a choice.
 
-question_challenge: challenge {{ question_number }}. what degree does {{ staffer }} hold?
-
 correct: that is correct. good job. your score is {{ score }}. continue on?
 
 incorrect: that is incorrect. keep playing?
