@@ -1,0 +1,3 @@
+NumberChallengeIntent the number is {secret_number}
+AMAZON.NoIntent no
+AMAZON.YesIntent yes
